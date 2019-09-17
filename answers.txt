@@ -1,0 +1,15 @@
+• What is a gitignore ﬁle and what should it include for a Java project? 
+
+ANS] gitignore tells git which files or patterns it should ignore. .class, .log and package files created by IDE's
+
+• What does fast-forward in Git mean? 
+
+ANS] Child branch is ahead of its parent branch and there has been no commits since the child branch is created, the parent branch move to the child branch last commit and this case is called fast forward.
+
+• Why should you have diﬀerent branches? 
+
+ANS] Branches are what we make to solve specific problems because branches represents exactly such a context in a project and helps you keep it separate from all other contexts.
+
+• In a project how many remote Git repositories do you usually have?
+
+ANS] It depends on the scale of your project. you can have as many repositories as you need for your project.
